@@ -22,4 +22,4 @@ I am an **HNDIT student** at **Advanced Technical Institute Dehiwala**. This pro
 ## 📂 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/suneththivanka128/CakeWebsite.git](https://github.com/suneththivanka128/CakeWebsite.git)
+   git clone https://github.com/suneththivanka128/CakeWebsite.git
